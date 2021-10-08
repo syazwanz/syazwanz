@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [adnexio](adnexio.jobs)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **Rust**
 
 - 👨‍💻 All of my projects are available at [syazwan.xyz](syazwan.xyz)
 
