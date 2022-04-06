@@ -6,11 +6,6 @@ I am a software developer from Malaysia.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 [![Waka Readme](https://github.com/syazwanz/syazwanz/actions/workflows/wakatime.yml/badge.svg)](https://github.com/syazwanz/syazwanz/actions/workflows/wakatime.yml)
 
