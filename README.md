@@ -8,10 +8,10 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    26 hrs 39 mins  ████████████████████████▒   96.98 %
+JavaScript    26 hrs 33 mins  ████████████████████████▒   96.99 %
 JSON          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 CSS           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-HTML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+HTML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Other         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
