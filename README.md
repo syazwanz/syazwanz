@@ -9,7 +9,7 @@ I am a software developer from Malaysia.
 
 ```txt
 TypeScript     4 hrs 19 mins   ███████████████▒░░░░░░░░░   61.98 %
-JSON           1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+JSON           1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
 TSQL           35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 Bash           32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 JavaScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
