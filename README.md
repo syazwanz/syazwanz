@@ -8,11 +8,11 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 39 mins   █████████████████████▒░░░   84.86 %
-Bash         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Ezhil        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript   8 hrs 37 mins   █████████████████████▓░░░   86.13 %
+Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Ezhil        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
