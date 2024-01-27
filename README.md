@@ -6,11 +6,9 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         5 mins          ███████████████████░░░░░░   75.51 %
-JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-YAML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JavaScript   0 secs          ██████████████░░░░░░░░░░░   56.66 %
+Git Config   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.02 %
+HTML         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
 ```
 
 <!--END_SECTION:waka-->
