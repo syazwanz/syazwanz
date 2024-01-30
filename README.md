@@ -6,9 +6,8 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ██████████████░░░░░░░░░░░   56.66 %
-Git Config   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-HTML         0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+JavaScript   0 secs          █████████████████▓░░░░░░░   70.23 %
+Git Config   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.77 %
 ```
 
 <!--END_SECTION:waka-->
