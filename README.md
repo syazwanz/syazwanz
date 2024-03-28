@@ -6,11 +6,11 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    12 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   37.59 %
-YAML          7 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.79 %
-JSON          6 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-TypeScript    4 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Other         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JavaScript    13 hrs 3 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
+YAML          8 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+JSON          6 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Other         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript    1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
