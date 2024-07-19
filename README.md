@@ -6,11 +6,11 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   56 mins         ████████████▒░░░░░░░░░░░░   48.76 %
-HTML         27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-CSS          20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+HTML         21 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
+CSS          18 mins         ███████░░░░░░░░░░░░░░░░░░   27.53 %
+TypeScript   16 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+JavaScript   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
