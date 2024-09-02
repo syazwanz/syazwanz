@@ -6,7 +6,7 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
