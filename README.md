@@ -9,10 +9,10 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          3 hrs 21 mins         ████████████████████░░░░░   80.14 %
-Other        31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-JavaScript   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Markdown     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Vue          1 hr 7 mins           ███████████████▒░░░░░░░░░   61.83 %
+Other        31 mins               ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+JavaScript   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Markdown     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
