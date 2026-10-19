@@ -9,11 +9,11 @@ I am a software developer from Malaysia.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     15 hrs 25 mins        █████████░░░░░░░░░░░░░░░░   35.61 %
-TypeScript   11 hrs 22 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
-Other        7 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-Vue          4 hrs 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Bash         2 hrs 51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Markdown     14 hrs 59 mins        ████████▒░░░░░░░░░░░░░░░░   33.44 %
+TypeScript   13 hrs 50 mins        ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+Other        7 hrs 35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Vue          4 hrs 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Bash         1 hr 57 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
