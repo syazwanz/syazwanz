@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Syazwan's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1355, Total PRs: 148, Total Issues: 14, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 1358, Total PRs: 150, Total Issues: 14, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.78327639333588;
+        stroke-dashoffset: 112.55436675875386;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >148</text>
+      >150</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
